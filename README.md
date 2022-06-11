@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
  <h1>
-  Welcome, 
+  Welcome! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  Im Jonathan
+  I'm Jonathan Akinleye
   </h1>
   <img src="https://media.giphy.com/media/xipa31hSAdSniIA4rV/giphy.gif" width="100"/>
 
@@ -12,16 +12,30 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
  <div>
+  
+---
+  
+### :man_technologist: About Me :
 
-
-Here are some ideas to get you started:
+ I am a Devops Engineer, from Washington DC <img src="https://media.giphy.com/media/F3h8ekM8o0zvwVY0Ry/giphy.gif" width="40">. 
 
 - 🔭 I’m currently working on Setting up infra using Terraform over AWS
 - 🌱 I’m currently learning System Design...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤙🏿 Ice Cold Bro ...
 - 💬 Ask me about DevOps Tools and Automation
 - 📫 You can reach me at ..... supojak00@gmail.com
 
-- ⚡ Fun fact: Im a Libra if  you believe in that type of stuff 
--->
+- ⚡ Fun fact: Libra
+  
+  
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain.svg"
+  title="Terraform" **alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"
+  title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  </div>
