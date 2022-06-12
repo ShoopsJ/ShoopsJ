@@ -27,8 +27,16 @@
 - 📫 You can reach me at ..... supojak00@gmail.com
 
 - ⚡ Fun fact: Libra
+ ---
   
+  👨‍💻 What have I worked on recently?
+   - Setting up Infrastructure over AWS via Terraform Templates.
+   - Setting up a jenkins pipeline for CI/CD of a static website.
+   - Static webpage deloyment using AWS s3 and CloudFront.
   
+  ---
+  
+ - My Skills
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
