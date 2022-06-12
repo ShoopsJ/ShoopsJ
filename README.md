@@ -19,15 +19,21 @@
 
  I am a Devops Engineer, from Washington DC <img src="https://media.giphy.com/media/F3h8ekM8o0zvwVY0Ry/giphy.gif" width="40">. 
 
+  <div id="header" align="left">
+  
 - 🔭 I’m currently working on Setting up infra using Terraform over AWS
 - 🌱 I’m currently learning System Design...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Migration Projects...
 - 🤙🏿 Ice Cold Bro ...
 - 💬 Ask me about DevOps Tools and Automation
 - 📫 You can reach me at ..... supojak00@gmail.com
 
 - ⚡ Fun fact: Libra
+   
+  <div>
  ---
+  
+  <div id="header" align="left">
   <ul>
     <li>What have I worked on recently?</li>
         <ul>
@@ -37,13 +43,13 @@
         </ul>
     </li>
 </ul>
-   
+   <div>
   
   ---
   
  <div id="header" align="center">
                My Skills
-  <div>
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
