@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/xipa31hSAdSniIA4rV/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/jonathan-akinleye-31b252221">
+  <a href= "www.linkedin.com/in/jonathan-akinleye-31b252221" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
  <div>
