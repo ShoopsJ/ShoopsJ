@@ -17,7 +17,7 @@
   
 ### :man_technologist: About Me :
 
- I am a Devops Engineer, from Washington DC <img src="https://media.giphy.com/media/F3h8ekM8o0zvwVY0Ry/giphy.gif" width="40">. 
+ I am a Cloud Engineer, from Washington DC <img src="https://media.giphy.com/media/F3h8ekM8o0zvwVY0Ry/giphy.gif" width="40">. 
 
   <div id="header" align="left">
   
